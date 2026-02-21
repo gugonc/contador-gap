@@ -6,3 +6,4 @@ target/
 .vscode/
 !**/aplications.propertiessrc/main/resources/aplications.properties
 aplications.properties
+**/application.properties
